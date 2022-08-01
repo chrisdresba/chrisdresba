@@ -7,9 +7,9 @@
 
 - 📄 Know about my experiences: 
 
- Game Room (Angular): [https://saladejuegos-barraza.web.app/](https://saladejuegos-barraza.web.app/)
+ Game Room (Angular - Responsive): [https://saladejuegos-barraza.web.app/](https://saladejuegos-barraza.web.app/)
 
- Online Clinic (Angular): [https://clinicaonline-7159e.web.app/](https://clinicaonline-7159e.web.app/)
+ Online Clinic (Angular - Web): [https://clinicaonline-7159e.web.app/](https://clinicaonline-7159e.web.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
