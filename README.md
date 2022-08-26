@@ -9,8 +9,6 @@
 
  Game Room (Angular - Responsive): [https://saladejuegos-barraza.web.app/](https://saladejuegos-barraza.web.app/)
 
- Online Clinic (Angular - Web): [https://clinicaonline-7159e.web.app/](https://clinicaonline-7159e.web.app/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/cristian-andres-barraza-2163751bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cristian-andres-barraza-2163751bb/" height="30" width="40" /></a>
