@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristian Andres Barraza</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **React and React Native**
+- 🌱 I’m currently learning **Angular and React Native**
 
 - 📫 How to reach me **chrisdresba@gmail.com**
 
