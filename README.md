@@ -12,6 +12,8 @@
  **Game Room** [(Angular - Responsive)](https://github.com/chrisdresba/SaladejuegosAngular): [https://saladejuegos-barraza.web.app/](https://saladejuegos-barraza.web.app/)
  
  **A la carta** [(Angular - Challenge Alkemy - Responsive)](https://github.com/chrisdresba/Challenge-Angular): [https://alacarta-angular.web.app/](https://alacarta-angular.web.app/)
+ 
+ **Weather App** [(Angular - Responsive)](https://github.com/chrisdresba/Weather-App): [https://weather-appangular.web.app/](https://weather-appangular.web.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
