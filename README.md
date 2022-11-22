@@ -14,6 +14,10 @@
  **A la carta** [(Angular - Challenge Alkemy - Responsive)](https://github.com/chrisdresba/Challenge-Angular): [https://alacarta-angular.web.app/](https://alacarta-angular.web.app/)
  
  **Weather App** [(Angular - Responsive)](https://github.com/chrisdresba/Weather-App): [https://weather-appangular.web.app/](https://weather-appangular.web.app/)
+ 
+ **Carga de crédito - App Mobile** [(Ionic - Angular)](https://github.com/chrisdresba/AppCreditoQr-IonicAngular)
+  
+ **Salas de Chat - App Mobile** [(Ionic - Angular)](https://github.com/chrisdresba/AppChat-IonicAngular)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
