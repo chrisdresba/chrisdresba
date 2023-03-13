@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cristian Andrés Barraza</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🧑‍💻 I’m currently about to finish my university programming degree at the National Technological University **(UTN)**
+- 🧑‍💻 I’m a recent graduate of the university programming career at the National Technological University **(UTN)**
 
-- 🌱 I’m currently learning **Angular and React Native**
+- 🌱 I’m currently learning **Angular and Ionic**
 
 - 📫 How to reach me **chrisdresba@gmail.com**
 
@@ -14,6 +14,8 @@
  **A la carta** [(Angular - Challenge Alkemy - Responsive)](https://github.com/chrisdresba/Challenge-Angular): [https://alacarta-angular.web.app/](https://alacarta-angular.web.app/)
  
  **Weather App** [(Angular - Responsive)](https://github.com/chrisdresba/Weather-App): [https://weather-appangular.web.app/](https://weather-appangular.web.app/)
+ 
+  **WindBnb - DevChallenges** [(Angular - DevChallenges - Responsive)](https://github.com/chrisdresba/Windbnb-Angular): [https://windbnb-angular.web.app/](https://windbnb-angular.web.app/)
   
  **Salas de Chat - App Mobile** [(Ionic - Angular)](https://github.com/chrisdresba/AppChat-IonicAngular)
  
