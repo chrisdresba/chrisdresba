@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **chrisdresba@gmail.com**
 
-- 🧑‍💻 Portfolio : https://crisan.tech/
+- ⚡ Portfolio : https://crisan.tech/
 
 - 📄 Know about my experiences: 
 
