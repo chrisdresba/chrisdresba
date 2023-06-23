@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cristian Andrés Barraza</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
 - 🧑‍💻 I’m a recent graduate of the university programming career at the National Technological University **(UTN)**
 
-- 🌱 I’m currently learning **Angular and Ionic**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **chrisdresba@gmail.com**
 
