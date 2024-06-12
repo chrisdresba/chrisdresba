@@ -3,11 +3,11 @@
 
 - 🧑‍💻 I’m a recent graduate of the university programming career at the National Technological University **(UTN)**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Ionic**
 
 - 📫 How to reach me **chrisdresba@gmail.com**
 
-- ⚡ Portfolio : https://crisan.tech/
+- ⚡ Portfolio : https://crisan-tech.web.app/
 
 - 📄 Know about my experiences: 
 
